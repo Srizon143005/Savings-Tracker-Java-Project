@@ -11,19 +11,18 @@ Speciality:
 1. All works are done on file, so data loss is not an issue.
 2. This application gives you advice in "Status" Tab.
 
-Developed By: NetBeans
+Developed By: NetBeans<br>
 Version: 8.0.2
 
-This project is still under development.
-Development Criteria:
+This project is still under development. Development Criteria:
 1. A more efficient way of giving advice.
 2. A more awesome user interface.
 
-Q. How to use this project?
+Q. How to use this project?<br>
 A. Well, first of all download it as zip file &amp; then unzip it. Now open-up Netbeans &amp; go to open project. Now select the folder that contains these files. Hit select folder.
 
-Q. Can I use it for my project?
+Q. Can I use it for my project?<br>
 A. Why not?
 
-Q. Can I pull requests to make some changes in this project?
+Q. Can I pull requests to make some changes in this project?<br>
 A. Yeah! Sure! That's why it has been uploaded in GitHub.
