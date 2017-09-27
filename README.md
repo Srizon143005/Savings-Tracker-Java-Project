@@ -1,7 +1,7 @@
 # Java-Projects
 This repository contains a java project that can track your savings &amp; expenses.
 
-This application is all about tracking your savings & expenses:
+This application is all about tracking your savings &amp; expenses:
 1. Set a target safety margin in "Target" tab.
 2. Enter your entries (savings/expenses) in "Entry" tab.
 3. In "History" tab, you can review your added entries.
@@ -18,3 +18,12 @@ This project is still under development.
 Development Criteria:
 1. A more efficient way of giving advice.
 2. A more awesome user interface.
+
+Q. How to use this project?
+A. Well, first of all download it as zip file &amp; then unzip it. Now open-up Netbeans &amp; go to open project. Now select the folder that contains these files. Hit select folder.
+
+Q. Can I use it for my project?
+A. Why not?
+
+Q. Can I pull requests to make some changes in this project?
+A. Yeah! Sure! That's why it has been uploaded in GitHub.
